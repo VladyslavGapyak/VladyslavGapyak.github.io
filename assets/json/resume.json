@@ -73,6 +73,15 @@
         "Inverse Problems",
         "Applied Mathematics"
       ]
+    },
+    {
+      "name": "Programming",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "Git",
+        "Pytorch"
+      ]
     }
   ],
   "languages": [
@@ -90,19 +99,21 @@
       "language": "German",
       "fluency": "Upper Intermediate",
       "icon": ""
+    },
+    {
+      "language": "Russian",
+      "fluency": "Lower Intermediate",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Mathematics and Computer Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Inverse Problems",
+        "Mathematical Modeling",
+        "Deep Learning"
       ]
     }
   ]
