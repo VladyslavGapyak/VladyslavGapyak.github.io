@@ -7,7 +7,7 @@ first_name: Vladyslav
 middle_name:
 last_name: Gapyak
 contact_note: >
-  Contact note here.
+  Contact note
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Description of the website here.
 footer_text: >
