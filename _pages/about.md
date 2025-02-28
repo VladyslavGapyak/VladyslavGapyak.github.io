@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Darmstadt University of Applied Sciences</a>.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
@@ -21,6 +21,12 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
+
+I am Vladyslav, a mathematician with a passion for applications. In my PhD project I develop algorithms for the imaging reconstruction problem in Magnetic Particle Imaging for both the model-based and system-matrix-based approaches. For a list of publications, click [here](/vladyslavgapyak/publications/).
+I approach this problem using both classical and machine-learning-driven methods.
+
+I am a member of the [ACIDA Lab](https://fbmn.h-da.de/acida)-Algorithms for Computer Vision, Imaging and Data Analysis.
+
 
 <!-- Timeline CSS -->
 <style>
@@ -165,12 +171,4 @@ announcements:
     <span class="timeline-circle"></span>
   </div>
 </div>
-
-
-
-
-I am Vladyslav, a mathematician with a passion for applications. In my PhD project I develop algorithms for the imaging reconstruction problem in Magnetic Particle Imaging for both the model-based and system-matrix-based approaches. For a list of publications, click [here](/vladyslavgapyak/publications/).
-I approach this problem using both classical and machine-learning-driven methods.
-
-I am a member of the [ACIDA Lab](https://fbmn.h-da.de/acida)-Algorithms for Computer Vision, Imaging and Data Analysis.
 
