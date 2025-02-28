@@ -22,7 +22,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am Vladyslav, a mathematician with a passion for applications. In my PhD project I develop algorithms for the imaging reconstruction problem in Magnetic Particle Imaging for both the model-based and system-matrix-based approaches. For a list of publications, click [here](/vladyslavgapyak/publications/).
+I am Vladyslav, a mathematician with a passion for applications.
+In my PhD project I develop algorithms for the imaging reconstruction problem in Magnetic Particle Imaging for both
+the model-based and system-matrix-based approaches. For a list of publications, click [here](/publications/).
 I approach this problem using both classical and machine-learning-driven methods.
 
-I am a member of the [ACIDA Lab](https://fbmn.h-da.de/acida)-Algorithms for Computer Vision, Imaging and Data Analysis.
+I am a member of the [ACIDA Lab](https://fbmn.h-da.de/acida)-Algorithms for Computer Vision, Imaging and Data Analysis (you can check our latest updates on [LinkedIn](https://www.linkedin.com/company/acida-lab/)).
