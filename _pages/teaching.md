@@ -2,9 +2,9 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: My teaching experience in mathematics and computer science. I have held the exercises hours 
+description: My teaching experience in mathematics and computer science.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 
@@ -23,12 +23,11 @@ nav_order: 6
 
 ## 🎓 Student Seminar Supervision on Machine Learning, Genertive Models, Computer Vision and Inverse Problems  
 
-| **Seminar Name**                 | **Topics**                       | **Year**       |**Semester**|
-|----------------------------------|----------------------------------|----------------|------------|
-
-| Generative Models for Computer Vision     | Stable Diffusion, VAEs                | 2023-2024      | Winter     |
-| Inverse Problems, Imaging and Learning    | DIP, Denoising, CT Scan, Inpainting   | 2022-2023      | Summer     |
-| Regularization meets Machine Learning     | Inverse Problems, Denoising, GANS     | 2021-2022      | Summer     |
+| **Seminar Name**                       | **Topics**                          | **Year**       |**Semester**|
+|----------------------------------------|-------------------------------------|----------------|------------|
+| Generative Models for Computer Vision  | Stable Diffusion, VAEs              | 2023-2024      | Winter     |
+| Inverse Problems, Imaging and Learning | DIP, Denoising, CT Scan, Inpainting | 2022-2023      | Summer     |
+| Regularization meets Machine Learning  | Inverse Problems, Denoising, GANS   | 2021-2022      | Summer     |
 
 
 
@@ -36,7 +35,7 @@ nav_order: 6
 
 I have supervised and co-supervised '**Master’s students** from the following courses and topics
 
-   - Data Science, "Machine-Learning-Based Regularization for Magnetic Particle Imaging";
+   - Data Science, "Machine-Learning-Based Regularization for Magnetic Particle Imaging".
    - Applied Mathematics, Work in Progress.
 
 
